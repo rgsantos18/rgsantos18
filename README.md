@@ -5,7 +5,7 @@ I'm a full-stack developer based in the Philippines 🇵🇭 passionate about bu
 ---
 
 ## 💼 Currently Working On
-- 🚀 [Project Name](#) – Description of project or goal
+- 🚀 [Private Projects](#) – Most of my work is under strict NDA, but I’d be happy to discuss my experience in a call.
 - 🧠 Learning: Kubernetes, GraphQL, AI-assisted development
 
 ---
