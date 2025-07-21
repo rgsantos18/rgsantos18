@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Russel Santos
 
-I'm a full-stack developer based in the Philippines 🇵🇭 passionate about building impactful systems with **Laravel**, **React Native**, and **cloud infrastructure**.
+I'm a full-stack developer based in the Philippines 🇵🇭 passionate about building impactful systems with **Laravel**, **React Native**, **on-prem** and **cloud infrastructure**.
 
 ---
 
