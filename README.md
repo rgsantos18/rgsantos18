@@ -24,6 +24,7 @@ I'm a full-stack developer based in the Philippines 🇵🇭 passionate about bu
 ![OpenLiteSpeed](https://img.shields.io/badge/OpenLiteSpeed-2F8FDE?style=for-the-badge&logo=openlitespeed&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-333333?style=flat&logo=proxmox&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
@@ -33,5 +34,5 @@ I'm a full-stack developer based in the Philippines 🇵🇭 passionate about bu
 ---
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/russel-santos-82657579/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:santos.russel@gmail.com)(mailto:rgsantos.dev@outlook.com)
